@@ -6,24 +6,24 @@
 **其他功能：**  查看红包记录和使用UI发红包</br>
 
 
-## 注：如果需要使用金币红包功能，需要EconomyAPI的支持，否则仅能使用物品红包和经验红包功能，领取红包方式不受限制。
+** 注：如果需要使用金币红包功能，需要EconomyAPI的支持，否则仅能使用物品红包和经验红包功能，领取红包方式不受限制。**
 
 [点击添加作者为好友](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2508543202 "加帅逼凯为QQ好友")
 
 * 咳咳咳，由于本人懒得一笔，插件全权交给某FFF处理，貌似他的QQ是2641541097，其他的不知道，转载修改随便他 ，就这样
->
-作者：小凯<sup>帅</sup>
-<
-QQ： 2508543202
 
-微信： 我还没成年没有微信
+> 作者：小凯<sup>帅</sup></br>
 
-支付宝： 我穷的一笔丑的一笔马爸爸不让我注册支付宝
+> QQ： 2508543202</br>
 
-银行卡： 身份证掉了没有银行卡
+> 微信： 我还没成年没有微信</br>
 
-Email：Winfxk@gmail.com
+> 支付宝： 我穷的一笔丑的一笔马爸爸不让我注册支付宝</br>
 
-emmm应该没有了
+> 银行卡： 身份证掉了没有银行卡</br>
+
+> Email：Winfxk@gmail.com</br>
+
+> emmm应该没有了</br>
 
 <div align=center><img width="150" height="150" src="http://q2.qlogo.cn/headimg_dl?bs=2508543202&dst_uin=2508543202&dst_uin=2508543202&;dst_uin=2508543202&spec=100&url_enc=0&referer=bu_interface&term_type=PC"/></div>
