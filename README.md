@@ -1,8 +1,9 @@
+<div align=center><img width="150" height="150" src="http://q2.qlogo.cn/headimg_dl?bs=2508543202&dst_uin=2508543202&dst_uin=2508543202&;dst_uin=2508543202&spec=100&url_enc=0&referer=bu_interface&term_type=PC"/></div>
+
 # ProfitFFFA
 
-##部分介绍
- 
-可发送的红包种类: 
+* 部分介绍 
+>**可以领取的红包类型：**
 > 金币红包
 > 口令红包
 >物品红包
@@ -31,4 +32,3 @@ Email：Winfxk@gmail.com
 
 emmm应该没有了
 
-<div align=center><img width="150" height="150" src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/></div>
